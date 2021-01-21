@@ -614,7 +614,7 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
         <tr>
             <th>#1</th>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/gt/p225_353.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/WaveRNN/p225_353.npy__740k_steps_gen_NOT_BATCHED.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/WaveRNN/p225_353.npy__500k_steps_gen_NOT_BATCHED.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/pwg/p225_353_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/melgan/p225_353_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/singvocoder/p225_353_gen.wav" type="audio/wav"></audio></td>
@@ -624,7 +624,7 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
         <tr>
             <th>#2</th>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/gt/p226_361.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/WaveRNN/p226_361.npy__740k_steps_gen_NOT_BATCHED.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/WaveRNN/p226_361.npy__500k_steps_gen_NOT_BATCHED.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/pwg/p226_361_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/melgan/p226_361_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/singvocoder/p226_361_gen.wav" type="audio/wav"></audio></td>
@@ -634,7 +634,7 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
         <tr>
             <th>#3</th>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/gt/p227_393.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/WaveRNN/p227_393.npy__740k_steps_gen_NOT_BATCHED.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/WaveRNN/p227_393.npy__500k_steps_gen_NOT_BATCHED.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/pwg/p227_393_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/melgan/p227_393_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/singvocoder/p227_393_gen.wav" type="audio/wav"></audio></td>
@@ -644,7 +644,7 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
         <tr>
             <th>#4</th>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/gt/p229_381.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/WaveRNN/p229_381.npy__740k_steps_gen_NOT_BATCHED.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/WaveRNN/p229_381.npy__500k_steps_gen_NOT_BATCHED.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/pwg/p229_381_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/melgan/p229_381_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/singvocoder/p229_381_gen.wav" type="audio/wav"></audio></td>
@@ -654,7 +654,7 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
         <tr>
             <th>#5</th>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/gt/p230_407.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/WaveRNN/p230_407.npy__740k_steps_gen_NOT_BATCHED.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/WaveRNN/p230_407.npy__500k_steps_gen_NOT_BATCHED.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/pwg/p230_407_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/melgan/p230_407_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/speech/English/singvocoder/p230_407_gen.wav" type="audio/wav"></audio></td>
