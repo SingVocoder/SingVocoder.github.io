@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+layout: default
+markdown: kramdown
+kramdown:
+  toc_levels: 1..2
+title: "SingVocoder: Source-based Universal Singing Voice Vocoder with Generative Adversarial Network"
+#description: Author<sup>1</sup>, Author<sup>2</sup>, Author<sup>1</sup>
+#address1: <sup>1</sup>Zhejiang University, China
+#address2: <sup>2</sup>Zhejiang University, China
