@@ -77,7 +77,7 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/pwg_all/women/F5_2_02_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/FBMelGAN/women/F5_2_02.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/women/F5_2_02_gen.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/nsf/F5_2_02_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/nsf/women/F5_2_02_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
