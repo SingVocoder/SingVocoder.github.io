@@ -13,7 +13,7 @@ High-fidelity singing voice synthesis is challenging for neural vocoder due to e
 high sampling rate and strong expressiveness. 
 Existing neural vocoders designed for text-to-speech cannot directly be applied to singing voice synthesis since they result in glitch in the generated spectrogram and poor high-frequency reconstruction. 
 To tackle the difficulty of singing modeling, in this paper, we propose SingVocoder, 
-a source-based universal singing voice vocoder with generative adversarial network. 
+a universal singing voice vocoder with generative adversarial network. 
 Specifically, 1) SingVocoder uses source excitation to alleviate glitch problem in spectrogram; 
 and 2) to supervise high-frequency reconstruction, SingVocoder adopts multi-band discriminators and introduces multi-resolution mel-spectrogram loss and feature matching loss. 
 To our knowledge, SingVocoder is the first vocoder designed towards high-fidelity multi-speaker singing voice synthesis. 
@@ -33,8 +33,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
     <th style="text-align: center">WaveRNN</th>
     <th style="text-align: center">Parallel WaveGAN</th>
     <th style="text-align: center">FB MelGAN</th>
+    <th style="text-align: center">NSF</th>
     <th style="text-align: center">SingVocoder</th>
-    <th style="text-align: center"><p style="color: red;"> NSF (Rebuttal)</p></th>
     </thead>
     <tbody>
         <tr>
@@ -112,8 +112,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
     <th style="text-align: center">WaveRNN</th>
     <th style="text-align: center">Parallel WaveGAN</th>
     <th style="text-align: center">FB MelGAN</th>
+    <th style="text-align: center">NSF</th>
     <th style="text-align: center">SingVocoder</th>
-    <th style="text-align: center"><p style="color: red;"> NSF (Rebuttal)</p></th>
     </thead>
     <tbody>
         <tr>
@@ -196,8 +196,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
     <th style="text-align: center">WaveRNN</th>
     <th style="text-align: center">Parallel WaveGAN</th>
     <th style="text-align: center">FB MelGAN</th>
+    <th style="text-align: center">NSF</th>
     <th style="text-align: center">SingVocoder</th>
-    <th style="text-align: center"><p style="color: red;"> NSF (Rebuttal)</p></th>
     </thead>
     <tbody>
         <tr>
@@ -277,8 +277,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
     <th style="text-align: center">WaveRNN</th>
     <th style="text-align: center">Parallel WaveGAN</th>
     <th style="text-align: center">FB MelGAN</th>
+    <th style="text-align: center">NSF</th>
     <th style="text-align: center">SingVocoder</th>
-    <th style="text-align: center"><p style="color: red;"> NSF (Rebuttal)</p></th>
     </thead>
     <tbody>
         <tr>
