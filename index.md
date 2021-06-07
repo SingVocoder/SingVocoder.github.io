@@ -43,8 +43,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/waveRNN/women/F1_1_03.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/pwg_all/women/F1_1_03_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/FBMelGAN/women/F1_1_03.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/women/F1_1_03_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/nsf/women/F1_1_03_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/women/F1_1_03_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -54,8 +54,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/waveRNN/women/F3_1_02.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/pwg_all/women/F3_1_02_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/FBMelGAN/women/F3_1_02.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/women/F3_1_02_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/nsf/women/F3_1_02_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/women/F3_1_02_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -65,8 +65,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/waveRNN/women/F4_2_01.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/pwg_all/women/F4_2_01_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/FBMelGAN/women/F4_2_01.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/women/F4_2_01_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/nsf/women/F4_2_01_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/women/F4_2_01_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
         <tbody>
@@ -76,8 +76,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/waveRNN/women/F5_2_02.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/pwg_all/women/F5_2_02_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/FBMelGAN/women/F5_2_02.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/women/F5_2_02_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/nsf/women/F5_2_02_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/women/F5_2_02_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -87,8 +87,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/waveRNN/women/vocal-盛夏的果实_06.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/pwg_all/women/vocal-盛夏的果实_06_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/FBMelGAN/women/vocal-盛夏的果实_06.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/women/vocal-盛夏的果实_06_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/nsf/women/vocal-盛夏的果实_06_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/women/vocal-盛夏的果实_06_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -98,8 +98,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/waveRNN/women/中文女声DM-001-22.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/pwg_all/women/中文女声DM-001-22_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/FBMelGAN/women/中文女声DM-001-22.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/women/中文女声DM-001-22_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/nsf/women/中文女声DM-001-22_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/women/中文女声DM-001-22_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
 </table>
@@ -122,8 +122,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/waveRNN/man/m4_1_stc2.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/pwg_all/man/m4_1_stc2_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/FBMelGAN/man/m4_1_stc2.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/man/m4_1_stc2_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/nsf/man/m4_1_stc2_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/man/m4_1_stc2_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -133,8 +133,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/waveRNN/man/m9_2_stc6.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/pwg_all/man/m9_2_stc6_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/FBMelGAN/man/m9_2_stc6.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/man/m9_2_stc6_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/nsf/man/m9_2_stc6_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/man/m9_2_stc6_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -144,8 +144,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/waveRNN/man/100627002.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/pwg_all/man/100627002_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/FBMelGAN/man/100627002.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/man/100627002_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/nsf/man/100627002_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/man/100627002_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
         <tbody>
@@ -155,8 +155,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/waveRNN/man/m2_1_stc1.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/pwg_all/man/m2_1_stc1_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/FBMelGAN/man/m2_1_stc1.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/man/m2_1_stc1_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/nsf/man/m2_1_stc1_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/man/m2_1_stc1_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -166,8 +166,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/waveRNN/man/m2_2_stc4.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/pwg_all/man/m2_2_stc4_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/FBMelGAN/man/m2_2_stc4.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/man/m2_2_stc4_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/nsf/man/m2_2_stc4_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/man/m2_2_stc4_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -177,8 +177,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/waveRNN/man/m3_2_stc4.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/pwg_all/man/m3_2_stc4_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/FBMelGAN/man/m3_2_stc4.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/man/m3_2_stc4_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/nsf/man/m3_2_stc4_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singsing/SingVocoder/man/m3_2_stc4_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
 </table>
@@ -206,8 +206,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/waveRNN_n/f002-5.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/pwg/f002-5_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/FBMelGAN/f002-5.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/f002-5_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/nsf/f002-5_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/f002-5_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -217,8 +217,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/waveRNN_n/f005-2.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/pwg/f005-2_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/FBMelGAN/f005-2.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/f005-2_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/nsf/f005-2_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/f005-2_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -228,8 +228,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/waveRNN_n/f002-6.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/pwg/f002-6_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/FBMelGAN/f002-6.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/f002-6_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/nsf/f002-6_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/f002-6_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -239,8 +239,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/waveRNN_n/f002-2.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/pwg/f002-2_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/FBMelGAN/f002-2.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/f002-2_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/nsf/f002-2_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/f002-2_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -250,8 +250,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/waveRNN_n/f005-6.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/pwg/f005-6_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/FBMelGAN/f005-6.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/f005-6_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/nsf/f005-6_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/f005-6_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -261,8 +261,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/waveRNN_n/f005-9.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/pwg/f005-9_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/FBMelGAN/f005-9.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/f005-9_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/nsf/f005-9_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/f005-9_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
 </table>
@@ -287,8 +287,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/waveRNN_n/004-10_wavernn_0.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/pwg/004-10_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/FBMelGAN/004-10.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/004-10_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/nsf/004-10_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/004-10_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -298,8 +298,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/waveRNN_n/004-9_wavernn_0.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/pwg/004-9_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/FBMelGAN/004-9.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/004-9_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/nsf/004-9_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/004-9_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -309,8 +309,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/waveRNN_n/005-9_wavernn_0.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/pwg/005-9_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/FBMelGAN/005-9.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/005-9_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/nsf/005-9_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/005-9_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -320,8 +320,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/waveRNN_n/005-1_wavernn_0.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/pwg/005-1_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/FBMelGAN/005-1.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/005-1_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/nsf/005-1_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/005-1_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -331,8 +331,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/waveRNN_n/004-7_wavernn_0.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/pwg/004-7_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/FBMelGAN/004-7.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/004-7_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/nsf/004-7_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/004-7_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -342,8 +342,8 @@ Audio samples are available at <a href="https://singvocoder.github.io/"><i>https
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/waveRNN_n/005-8_wavernn_0.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/pwg/005-8_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/FBMelGAN/005-8.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/005-8_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/nsf/005-8_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/seen-singing/SingVocoder/005-8_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>    
 </table>
